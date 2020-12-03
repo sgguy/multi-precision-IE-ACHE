@@ -93,7 +93,7 @@ int main(){
         	}
 		fprintf(pFile, "00000000000000000000000000100000");
 		fprintf(pFile, "\n");
-		fprintf(pFile, "01111111111111111111111111111111");
+		fprintf(pFile, "01000000000000000000000000000000");
 		fprintf(pFile, "\n");
 	        fprintf(pFile, "00000000000000000000000000000000");
 		fprintf(pFile, "\n");
@@ -121,9 +121,9 @@ int main(){
         	}
 		fprintf(pFile, "00000000000000000000000001000000");
 		fprintf(pFile, "\n");
-		fprintf(pFile, "11111111111111111111111111111111");
+		fprintf(pFile, "00000000000000000000000000000000");
 		fprintf(pFile, "\n");
-		fprintf(pFile, "01111111111111111111111111111111");
+		fprintf(pFile, "01000000000000000000000000000000");
 		fprintf(pFile, "\n");
 	        fprintf(pFile, "00000000000000000000000000000000");
 		fprintf(pFile, "\n");
@@ -151,13 +151,13 @@ int main(){
         	}
         	fprintf(pFile, "00000000000000000000000010000000");
 		fprintf(pFile, "\n");
-		fprintf(pFile, "11111111111111111111111111111111");
+		fprintf(pFile, "00000000000000000000000000000000");
 		fprintf(pFile, "\n");
-		fprintf(pFile, "11111111111111111111111111111111");
+		fprintf(pFile, "00000000000000000000000000000000");
 		fprintf(pFile, "\n");
-		fprintf(pFile, "11111111111111111111111111111111");
+		fprintf(pFile, "00000000000000000000000000000000");
 		fprintf(pFile, "\n");
-		fprintf(pFile, "01111111111111111111111111111111");
+		fprintf(pFile, "01000000000000000000000000000000");
 		fprintf(pFile, "\n");
 	        fprintf(pFile, "00000000000000000000000000000000");
 		fprintf(pFile, "\n");
@@ -184,21 +184,21 @@ int main(){
         	}
 		fprintf(pFile, "00000000000000000000000100000000");
 		fprintf(pFile, "\n");
-		fprintf(pFile, "11111111111111111111111111111111");
+		fprintf(pFile, "00000000000000000000000000000000");
 		fprintf(pFile, "\n");
-		fprintf(pFile, "11111111111111111111111111111111");
+		fprintf(pFile, "00000000000000000000000000000000");
 		fprintf(pFile, "\n");
-		fprintf(pFile, "11111111111111111111111111111111");
+		fprintf(pFile, "00000000000000000000000000000000");
 		fprintf(pFile, "\n");
-		fprintf(pFile, "11111111111111111111111111111111");
+		fprintf(pFile, "00000000000000000000000000000000");
 		fprintf(pFile, "\n");
-		fprintf(pFile, "11111111111111111111111111111111");
+		fprintf(pFile, "00000000000000000000000000000000");
 		fprintf(pFile, "\n");
-		fprintf(pFile, "11111111111111111111111111111111");
+		fprintf(pFile, "00000000000000000000000000000000");
 		fprintf(pFile, "\n");
-		fprintf(pFile, "11111111111111111111111111111111");
+		fprintf(pFile, "00000000000000000000000000000000");
 		fprintf(pFile, "\n");
-		fprintf(pFile, "01111111111111111111111111111111");
+		fprintf(pFile, "01000000000000000000000000000000");
 		fprintf(pFile, "\n");
 	        fprintf(pFile, "00000000000000000000000000000000");
 		fprintf(pFile, "\n");
